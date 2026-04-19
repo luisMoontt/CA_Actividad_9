@@ -1,7 +1,7 @@
 # Actividad práctica 9 - Establecer límites de forma profesional
 GRUPO 8 - Luis Mario Monterroso Juárez - 202500066
 
-## 1. Análisis del escenario planteado
+## Análisis del escenario planteado
 
 **Andrea:** El escenario muestra una dinámica muy común en entornos laborales: alguien que ya
 cumplió con sus responsabilidades se ve presionado socialmente a asumir las de otro. El problema
@@ -17,7 +17,7 @@ de compañerismo.
 
 ---
 
-## 2. Identificación del problema comunicativo
+## Identificación del problema comunicativo
 
 **Luis:** El problema central es la ausencia de límites claros desde el inicio. Cuando la primera
 petición se atiende sin establecer una expectativa, se crea un precedente difícil de romper.
@@ -32,16 +32,12 @@ desarrollado el hábito de intentarlo primero por su cuenta.
 
 ---
 
-## 3. Aplicación de técnicas de comunicación asertiva
+## Aplicación de técnicas de comunicación asertiva
 
 ### Técnica del sándwich
 
 **Camila** redacta la respuesta:
-
-> *"Oye Carlos, valoro mucho la confianza que tienes en mí y me alegra que trabajemos bien juntos.
-> Dicho esto, hoy no voy a poder ayudarte porque tengo compromisos que atender y necesito
-> enfocarme en ellos. Lo que sí te sugiero es que anotes tus dudas y las plantees en la reunión
-> de mañana, donde podemos resolverlas entre todo el equipo. ¡Seguro lo sacas adelante!"*
+*"Oye Carlos, valoro mucho la confianza que tienes en mí y me alegra que trabajemos bien juntos. Dicho esto, hoy no voy a poder ayudarte porque tengo compromisos que atender y necesito enfocarme en ellos. Lo que sí te sugiero es que anotes tus dudas y las plantees en la reunión de mañana, donde podemos resolverlas entre todo el equipo. ¡Seguro lo sacas adelante!"*
 
 **Luis:** Perfecto. Abre con reconocimiento, da el límite de forma directa sin disculparse en
 exceso, y cierra con una alternativa constructiva. No hay agresividad ni sumisión.
@@ -61,7 +57,7 @@ Eso reduce la fricción y le da al compañero una salida digna.
 
 ---
 
-## 4. Regulación emocional durante la interacción
+## Regulación emocional durante la interacción
 
 **Luis:** Al momento de decir esto en persona o por mensaje de voz, el tono es clave. Voz calmada,
 sin defensiva, sin aceleración. Una pausa breve antes de responder ayuda a no reaccionar desde
@@ -76,7 +72,7 @@ su autonomía.
 
 ---
 
-## 5. Retroalimentación grupal
+## Retroalimentación grupal
 
 | Criterio                  | Observación del grupo                                                                 |
 |---------------------------|---------------------------------------------------------------------------------------|
@@ -87,6 +83,5 @@ su autonomía.
 
 ---
 
-> **Conclusión del grupo:** Decir *"no"* de forma profesional no rompe relaciones. Al contrario,
-> las sostiene sobre bases más honestas y saludables. La clave está en combinar claridad, respeto
-> y una alternativa que demuestre buena voluntad sin ceder el límite.Sonnet 4.6
+## Conclusión del grupo:** Decir *"no"* de forma profesional no rompe relaciones. Al contrario,
+las sostiene sobre bases más honestas y saludables. La clave está en combinar claridad, respeto y una alternativa que demuestre buena voluntad sin ceder el límite.Sonnet 4.6
