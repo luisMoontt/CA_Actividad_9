@@ -83,4 +83,4 @@ su autonomía.
 ---
 
 ## Conclusión del grupo: Decir *"no"* de forma profesional no rompe relaciones. Al contrario,
-las sostiene sobre bases más honestas y saludables. La clave está en combinar claridad, respeto y una alternativa que demuestre buena voluntad sin ceder el límite.Sonnet 4.6
+las sostiene sobre bases más honestas y saludables. La clave está en combinar claridad, respeto y una alternativa que demuestre buena voluntad sin ceder el límite.
