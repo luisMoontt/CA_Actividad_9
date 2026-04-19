@@ -49,9 +49,7 @@ exceso, y cierra con una alternativa constructiva. No hay agresividad ni sumisi�
 
 **Andrea** redacta la respuesta:
 
-> *"Carlos, entiendo que estás bajo presión con esa parte del proyecto. En este momento puntual
-> no puedo detenerme porque estoy en medio de otra tarea con fecha límite. Si mañana tienes un
-> momento libre, con gusto le echo un vistazo contigo, pero hoy no me es posible."*
+*"Carlos, entiendo que estás bajo presión con esa parte del proyecto. En este momento puntual no puedo detenerme porque estoy en medio de otra tarea con fecha límite. Si mañana tienes un momento libre, con gusto le echo un vistazo contigo, pero hoy no me es posible."*
 
 **Camila:** Esta versión ancla el límite en la situación concreta, no en una negativa general.
 Eso reduce la fricción y le da al compañero una salida digna.
