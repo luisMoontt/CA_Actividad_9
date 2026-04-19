@@ -37,7 +37,7 @@ desarrollado el hábito de intentarlo primero por su cuenta.
 ### Técnica del sándwich
 
 **Camila** redacta la respuesta:
----
+
 *"Oye Carlos, valoro mucho la confianza que tienes en mí y me alegra que trabajemos bien juntos. Dicho esto, hoy no voy a poder ayudarte porque tengo compromisos que atender y necesito enfocarme en ellos. Lo que sí te sugiero es que anotes tus dudas y las plantees en la reunión de mañana, donde podemos resolverlas entre todo el equipo. ¡Seguro lo sacas adelante!"*
 
 **Luis:** Perfecto. Abre con reconocimiento, da el límite de forma directa sin disculparse en
